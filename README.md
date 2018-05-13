@@ -37,7 +37,8 @@ You **MUST** turn **OFF** all the options in the section "VIRUS & THREAT PROTECT
 - Launch Daedalus and expect to see the first blocks syncing (anything > 0%)
 - Quit Daedalus
 - Remove DB-1.0 folder from Roaming: `rm -rf ~/AppData/Roaming/Daedalus/DB-1.0/`
-- And replace with the whole previous blockchain datas from desktop with: `mv ~/Desktop/DB-1.0 ~/AppData/Roaming/Daedalus/DB-1.0`
+- And replace with the whole previous blockchain datas from desktop with:
+`mv ~/Desktop/DB-1.0 ~/AppData/Roaming/Daedalus/DB-1.0`
 
 ### Restoring an old wallet
 
