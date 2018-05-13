@@ -8,7 +8,7 @@ Requirements:
 
 - Having already synced the whole blockchain once
 - Install git bash from [official website](https://git-scm.com/downloads)
-- During the installation be sure to check **git bash & linux like commands**
+- During the installation (of git) be sure to check **git bash & linux like commands**
 
 ### Deactivate all virus & threat protections
 
