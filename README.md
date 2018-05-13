@@ -14,7 +14,7 @@ Requirements:
 
 > A strong interaction between Daedalus and Antimalware Service Executable - Windows Defender Antivirus Service on a freshly installed / fully updated instance of Windows 10 Pro x64 was observed.
 
-You **MUST** turn off all the options in the section "VIRUS & THREAT PROTECTION SETTINGS"
+You **MUST** turn **OFF** all the options in the section "VIRUS & THREAT PROTECTION SETTINGS"
 
 ![VIRUSTHREATPROTECTIONSETTINGS](win-settings.PNG)
 
@@ -45,7 +45,7 @@ You **MUST** turn off all the options in the section "VIRUS & THREAT PROTECTION 
 - Create a new temporary wallet
 - Restore the old wallet with your seeds phrase
 
-:trophy: From the moment I clicked on the button "restore wallet" it took me ~2h to restore (with a network interruption in between...) :trophy:
+:trophy: From the moment I clicked on the button "restore wallet" it took me ~2h to restore (with a network interruption in between...)
 
 ___
 
