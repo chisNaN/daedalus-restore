@@ -47,7 +47,7 @@ You **MUST** turn **OFF** all the options in the section "VIRUS & THREAT PROTECT
 - Create a new temporary wallet
 - Restore the old wallet with your seeds phrase
 
-:trophy: From the moment I clicked on the button "restore wallet" it took me ~2h to restore (with a network interruption in between...)
+:trophy: From the moment one click on the button "restore wallet" it **should** take between 1h and 2h to restore.
 
 ___
 
